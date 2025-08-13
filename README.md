@@ -23,8 +23,8 @@ I go by **SohamXYZ** across the web — a developer, automation architect, and f
 - 🌐 Linkedin: [sohamxyz](www.linkedin.com/in/sohamxyz)
 - 💬 Discord: `sohamxyz`
 
-> Formerly `sohamxyzdev` on GitHub 
-> Now unified as **`SohamXYZcom`** for stronger identity & discoverability
+> Formerly `SohamXYZcom` on GitHub 
+> Now unified as **`SohamXYZDev`** for stronger identity & discoverability
 
 ---
 
