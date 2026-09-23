@@ -11,7 +11,6 @@ I design and ship quantitative trading tools, AI/ML systems, and accessibility s
 Open-source paper trading SDK and orderbook simulator for prediction markets.
 - Real-time WebSocket connection to prediction market CLOB endpoints
 - Dual execution simulation: Midpoint polling vs. full Level-2 orderbook with 1.5% VWAP slippage modeling
-- **Backtest Performance:** +111.9% ROI across 10,000,000+ market ticks (1,272 simulated trades, 63.6% win rate, 6.0% max drawdown)
 
 ### 🎯 [OpenBoard](https://sohamxyz.com/openboard)
 Free, open-access standardized examination practice platform engineered for zero-bloat, distraction-free drilling.
