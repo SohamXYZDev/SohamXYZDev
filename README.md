@@ -13,12 +13,8 @@ I build low-latency tools, prediction market systems, and software that actually
 
 ---
 
-### 🌐 Open Source Contributions
-Active upstream contributor to scientific Python and cognitive science tooling:
-- **[mne-tools/mne-python](https://github.com/mne-tools/mne-python)** (3.6k ⭐) — Neuroimaging (EEG/MEG) analysis engine
-- **[jspsych/jsPsych](https://github.com/jspsych/jsPsych)** (2.4k ⭐) — JavaScript library for behavioral & cognitive experiments
-- **[raphaelvallat/pingouin](https://github.com/raphaelvallat/pingouin)** (1.8k ⭐) — Statistical package for Python
-- **[psychopy/psychopy](https://github.com/psychopy/psychopy)** (1.6k ⭐) — Neuroscience and experimental psychology platform
+### 🌐 Open Source
+- **[jspsych/jsPsych](https://github.com/jspsych/jsPsych)** (2.4k ⭐) — Core experiment runtime & timeline engine ([Merged PR #3725](https://github.com/jspsych/jsPsych/pull/3725))
 
 ---
 
