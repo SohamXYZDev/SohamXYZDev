@@ -12,7 +12,7 @@
 
 ---
 
-<img width="330" src="./img/eren_zeke_paths.png" align="right" />
+<img width="330" src="./img/eren_sea_point.png" align="right" />
 
 ### Projects
 - **[OpenBoard](https://sohamxyz.com/openboard)** — Digital SAT drill engine with embedded Desmos. Under 100ms load time.
@@ -33,8 +33,14 @@
 
 ---
 
+<img width="100%" src="./img/eren_eyes.png" />
+<img width="100%" src="./img/mikasa_eyes.png" />
+
+<br/><br/>
+
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SohamXYZDev&layout=compact&theme=nord&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SohamXYZDev&show_icons=true&theme=nord&hide_border=true" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SohamXYZDev&layout=compact&theme=nord&hide_border=true" height="175" />
 </p>
 
 ### Links & Contact
