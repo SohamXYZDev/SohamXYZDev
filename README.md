@@ -1,4 +1,4 @@
-<img src="./img/header_banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08121e,50:0077b6,100:00b4d8&height=180&section=header&text=Soham%20Mitra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Low-Latency%20Tools%20%E2%80%A2%20Open%20Source&descSize=15&descAlignY=55" width="100%"/>
 
 <div>
 <img width="330" src="./img/eren_chained_cave.jpg" align="right" />
