@@ -16,6 +16,7 @@
 
 ### Projects
 - **[OpenBoard](https://sohamxyz.com/openboard)** — Digital SAT drill engine with embedded Desmos. Under 100ms load time.
+- **[ReddLeads](https://reddleads.com)** — Automated B2B lead generation engine using semantic intent signals.
 - **[DekhoAI](https://github.com/SohamXYZDev/apnaai)** — Offline Hindi voice assistant for budget Android phones using Whisper.cpp.
 - **[SimplePolymarketPaperEngine](https://github.com/SohamXYZDev/SimplePolymarketPaperEngine)** — Prediction market orderbook simulator with L2 VWAP slippage.
 - **[CheckMyMedia](https://github.com/SohamXYZDev/CheckMyMedia)** — Real-time AI media detection and sentiment verification via Gemma 3.
@@ -27,7 +28,9 @@
 <img width="330" src="./img/child_eren_smiling.png" align="right" />
 
 ### Open Source
+- **[psychopy/psychopy](https://github.com/psychopy/psychopy)** (1.8k ⭐) — Hardware keyboard event backend & sub-millisecond response timing ([Merged PR #7838](https://github.com/psychopy/psychopy/pull/7838))
 - **[jspsych/jsPsych](https://github.com/jspsych/jsPsych)** (2.4k ⭐) — Core experiment runtime & timeline engine ([Merged PR #3725](https://github.com/jspsych/jsPsych/pull/3725))
+- *In review:* **[morluto/rea](https://github.com/morluto/rea)** (316k ⭐, [#5044](https://github.com/morluto/rea/pull/5044)), **[vega/altair](https://github.com/vega/altair)** (9.5k ⭐, [#4184](https://github.com/vega/altair/pull/4184)), **[mne-tools/mne-python](https://github.com/mne-tools/mne-python)** (3.2k ⭐, [#14409](https://github.com/mne-tools/mne-python/pull/14409)), **[raphaelvallat/pingouin](https://github.com/raphaelvallat/pingouin)** (1.8k ⭐, [#555](https://github.com/raphaelvallat/pingouin/pull/555))
 
 <br clear="both" />
 
