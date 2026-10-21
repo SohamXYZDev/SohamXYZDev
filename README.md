@@ -30,7 +30,6 @@
 ### Open Source
 - **[psychopy/psychopy](https://github.com/psychopy/psychopy)** (2.1k ⭐) — Hardware keyboard event backend & sub-millisecond response timing ([Merged PR #7838](https://github.com/psychopy/psychopy/pull/7838))
 - **[jspsych/jsPsych](https://github.com/jspsych/jsPsych)** (1.2k ⭐) — Core experiment runtime & timeline engine ([Merged PR #3725](https://github.com/jspsych/jsPsych/pull/3725))
-- *In review:* **[morluto/rea](https://github.com/morluto/rea)** (334k ⭐, [#5044](https://github.com/morluto/rea/pull/5044)), **[vega/altair](https://github.com/vega/altair)** (10.5k ⭐, [#4184](https://github.com/vega/altair/pull/4184)), **[mne-tools/mne-python](https://github.com/mne-tools/mne-python)** (3.6k ⭐, [#14409](https://github.com/mne-tools/mne-python/pull/14409)), **[raphaelvallat/pingouin](https://github.com/raphaelvallat/pingouin)** (1.9k ⭐, [#555](https://github.com/raphaelvallat/pingouin/pull/555))
 
 <br clear="both" />
 
