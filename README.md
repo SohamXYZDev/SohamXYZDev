@@ -29,6 +29,7 @@
 
 ### Open Source
 - **[psychopy/psychopy](https://github.com/psychopy/psychopy)** (2.1k ⭐) — Hardware keyboard event backend & sub-millisecond response timing ([Merged PR #7838](https://github.com/psychopy/psychopy/pull/7838))
+- **[raphaelvallat/pingouin](https://github.com/raphaelvallat/pingouin)** (1.9k ⭐) — Statistical package for Python: explicit error validation & bytecode safety ([Merged PR #555](https://github.com/raphaelvallat/pingouin/pull/555))
 - **[jspsych/jsPsych](https://github.com/jspsych/jsPsych)** (1.2k ⭐) — Core experiment runtime & timeline engine ([Merged PR #3725](https://github.com/jspsych/jsPsych/pull/3725))
 
 <br clear="both" />
